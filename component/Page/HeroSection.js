@@ -30,8 +30,8 @@ export default function HeroSection() {
       >
         <Image src="/../public/background-plox.jpg" layout="fill" objectFit="cover" alt="Backdrop Netplox" />
         <Container maxWidth="md" sx={{ position: "relative", zIndex: 1000, mx: 6 }}>
-          <Grid container sx={{ maxWidth: "100%", display: "flex", flexDirection: "column", alignItems: "center" }}>
-            <Grid container sx={{ maxWidth: "100%", display: "flex", flexDirection: "column", mx: 3 }}>
+          <Grid container sx={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
+            <Grid container sx={{ display: "flex", flexDirection: "column", mx: 3 }}>
               <Grid item xs="auto" sx={{ display: "flex", flexDirection: "column" }}>
                 <Typography variant="h3" component="h1" color="common.white" fontWeight="600" textAlign="center">
                   Nonton film dan anime tanpa batas
@@ -56,7 +56,7 @@ export default function HeroSection() {
         <Container maxWidth="md" sx={{ position: "relative", zIndex: 1000 }}>
           <Grid container>
             <Grid item xs>
-              <Image src="/../public/boku2.jpg" width={450} height={450} />
+              <Image src="/../public/boku2.jpg" width={550} height={350} objectFit="contain" />
             </Grid>
           </Grid>
         </Container>
