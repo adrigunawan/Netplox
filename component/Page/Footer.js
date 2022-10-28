@@ -19,7 +19,7 @@ export default function Footer() {
           </Typography>
         </Grid>
         <Grid item xs>
-          <Image src="/../public/footer-img2.png" width={400} height={450} objectFit="contain" />
+          <Image src="/footer-img2.png" width={400} height={450} objectFit="contain" />
         </Grid>
         <Grid item>
           <Button variant="contained" size="medium">

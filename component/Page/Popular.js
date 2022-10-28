@@ -21,31 +21,31 @@ export default function Popular() {
         <Grid container>
           <Grid item xs={2} mx={2.5}>
             <Button variant="contained" sx={{ background: "#2222", display: "flex", flexDirection: "column" }}>
-              <Image src="/../public/boku1.jpg" width={400} height={400} objectFit="contain" />
+              <Image src="/boku1.jpg" width={400} height={400} objectFit="contain" />
               <Typography sx={{ position: "relative", my: 2 }}>Boku no hero academia season 5</Typography>
             </Button>
           </Grid>
           <Grid item xs={2} mx={2.5}>
             <Button variant="contained" sx={{ background: "#2222", display: "flex", flexDirection: "column" }}>
-              <Image src="/../public/boku1.jpg" width={400} height={400} objectFit="contain" />
+              <Image src="/boku1.jpg" width={400} height={400} objectFit="contain" />
               <Typography sx={{ position: "relative", my: 2 }}>Boku no hero academia season 5</Typography>
             </Button>
           </Grid>
           <Grid item xs={2} mx={2.5}>
             <Button variant="contained" sx={{ background: "#2222", display: "flex", flexDirection: "column" }}>
-              <Image src="/../public/boku1.jpg" width={400} height={400} objectFit="contain" />
+              <Image src="/boku1.jpg" width={400} height={400} objectFit="contain" />
               <Typography sx={{ position: "relative", my: 2 }}>Boku no hero academia season 5</Typography>
             </Button>
           </Grid>
           <Grid item xs={2} mx={2.5}>
             <Button variant="contained" sx={{ background: "#2222", display: "flex", flexDirection: "column" }}>
-              <Image src="/../public/boku1.jpg" width={400} height={400} objectFit="contain" />
+              <Image src="/boku1.jpg" width={400} height={400} objectFit="contain" />
               <Typography sx={{ position: "relative", my: 2 }}>Boku no hero academia season 5</Typography>
             </Button>
           </Grid>
           <Grid item xs={2} mx={2.5}>
             <Button variant="contained" sx={{ background: "#2222", display: "flex", flexDirection: "column" }}>
-              <Image src="/../public/boku1.jpg" width={400} height={400} objectFit="contain" />
+              <Image src="/boku1.jpg" width={400} height={400} objectFit="contain" />
               <Typography sx={{ position: "relative", my: 2 }}>Boku no hero academia season 5</Typography>
             </Button>
           </Grid>
@@ -68,31 +68,31 @@ export default function Popular() {
             <Grid container>
               <Grid item xs={2} mx={2.5}>
                 <Button variant="contained" sx={{ background: "#2222", display: "flex", flexDirection: "column" }}>
-                  <Image src="/../public/deadpool.jpg" width={300} height={300} objectFit="contain" />
+                  <Image src="/deadpool.jpg" width={300} height={300} objectFit="contain" />
                   <Typography sx={{ position: "relative", my: 2 }}>Deadpool</Typography>
                 </Button>
               </Grid>
               <Grid item xs={2} mx={2.5}>
                 <Button variant="contained" sx={{ background: "#2222", display: "flex", flexDirection: "column" }}>
-                  <Image src="/../public/deadpool.jpg" width={300} height={300} objectFit="contain" />
+                  <Image src="/deadpool.jpg" width={300} height={300} objectFit="contain" />
                   <Typography sx={{ position: "relative", my: 2 }}>Deadpool</Typography>
                 </Button>
               </Grid>
               <Grid item xs={2} mx={2.5}>
                 <Button variant="contained" sx={{ background: "#2222", display: "flex", flexDirection: "column" }}>
-                  <Image src="/../public/deadpool.jpg" width={300} height={300} objectFit="contain" />
+                  <Image src="/deadpool.jpg" width={300} height={300} objectFit="contain" />
                   <Typography sx={{ position: "relative", my: 2 }}>Deadpool</Typography>
                 </Button>
               </Grid>
               <Grid item xs={2} mx={2.5}>
                 <Button variant="contained" sx={{ background: "#2222", display: "flex", flexDirection: "column" }}>
-                  <Image src="/../public/deadpool.jpg" width={300} height={300} objectFit="contain" />
+                  <Image src="/deadpool.jpg" width={300} height={300} objectFit="contain" />
                   <Typography sx={{ position: "relative", my: 2 }}>Deadpool</Typography>
                 </Button>
               </Grid>
               <Grid item xs={2} mx={2.5}>
                 <Button variant="contained" sx={{ background: "#2222", display: "flex", flexDirection: "column" }}>
-                  <Image src="/../public/deadpool.jpg" width={300} height={300} objectFit="contain" />
+                  <Image src="/deadpool.jpg" width={300} height={300} objectFit="contain" />
                   <Typography sx={{ position: "relative", my: 2 }}>Deadpool</Typography>
                 </Button>
               </Grid>

@@ -28,8 +28,8 @@ export default function HeroSection() {
           },
         }}
       >
-        <Image src="/../public/background-plox.jpg" layout="fill" objectFit="cover" alt="Backdrop Netplox" />
-        <Container maxWidth="md" sx={{ position: "relative", zIndex: 1000, mx: 6 }}>
+        <Image src="/background-plox.jpg" layout="fill" objectFit="cover" alt="Backdrop Netplox" />
+        <Container  sx={{ position: "relative", zIndex: 1000, mx: 6 }}>
           <Grid container sx={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
             <Grid container sx={{ display: "flex", flexDirection: "column", mx: 3 }}>
               <Grid item xs="auto" sx={{ display: "flex", flexDirection: "column" }}>
@@ -53,10 +53,10 @@ export default function HeroSection() {
             </Grid>
           </Grid>
         </Container>
-        <Container maxWidth="md" sx={{ position: "relative", zIndex: 1000 }}>
+        <Container  sx={{ position: "relative", zIndex: 1000 }}>
           <Grid container>
             <Grid item xs>
-              <Image src="/../public/boku2.jpg" width={550} height={350} objectFit="contain" />
+              <Image src="/boku2.jpg" width={550} height={350} objectFit="contain" />
             </Grid>
           </Grid>
         </Container>
